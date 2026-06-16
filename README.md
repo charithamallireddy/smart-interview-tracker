@@ -30,3 +30,5 @@ streamlit run streamlit_app.py
 
  Author
 Charitha Mallireddy
+
+Project Screenshot
