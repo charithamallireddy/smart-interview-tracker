@@ -32,3 +32,4 @@ streamlit run streamlit_app.py
 Charitha Mallireddy
 
 Project Screenshot
+<img width="1280" height="586" alt="project_screenshot png" src="https://github.com/user-attachments/assets/f8c0893f-a16b-496c-8194-4dd697f90d2a" />
